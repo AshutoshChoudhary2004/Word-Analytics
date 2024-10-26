@@ -1,0 +1,2 @@
+export const META_MAX_CHARACTERS = 2200;
+export const INSTAGRAM_MAX_CHARACTERS = 200;
